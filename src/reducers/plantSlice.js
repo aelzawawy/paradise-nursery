@@ -4,7 +4,7 @@ const initialState = {
     {
       id: 1,
       name: "Snake Plant",
-      thumbnail: "/images/snake-plant.jpg",
+      thumbnail: "/paradise-nursery/images/snake-plant.jpg",
       price: 29.99,
       description:
         "Low-maintenance plant known for its air purifying qualities",
@@ -13,7 +13,7 @@ const initialState = {
     {
       id: 2,
       name: "Lavender",
-      thumbnail: "/images/lavender.jpg",
+      thumbnail: "/paradise-nursery/images/lavender.jpg",
       price: 24.99,
       description: "Beautiful purple flowers with a calming fragrance",
       type: "aromatic fragrant",
@@ -21,7 +21,7 @@ const initialState = {
     {
       id: 3,
       name: "Spider Plant",
-      thumbnail: "/images/spider-plant.jpg",
+      thumbnail: "/paradise-nursery/images/spider-plant.jpg",
       price: 19.99,
       description: "Fast growing plant that removes indoor air pollutants",
       type: "air purifying",
@@ -29,7 +29,7 @@ const initialState = {
     {
       id: 4,
       name: "Jasmine",
-      thumbnail: "/images/jasmine.jpg",
+      thumbnail: "/paradise-nursery/images/jasmine.jpg",
       price: 34.99,
       description: "Sweet-scented white flowers that bloom at night",
       type: "aromatic fragrant",
@@ -37,7 +37,7 @@ const initialState = {
     {
       id: 5,
       name: "Aloe Vera",
-      thumbnail: "/images/aloe.jpg",
+      thumbnail: "/paradise-nursery/images/aloe.jpg",
       price: 22.99,
       description: "Medicinal plant with healing properties",
       type: "medicinal",
@@ -45,7 +45,7 @@ const initialState = {
     {
       id: 6,
       name: "Peace Lily",
-      thumbnail: "/images/peace-lily.jpg",
+      thumbnail: "/paradise-nursery/images/peace-lily.jpg",
       price: 39.99,
       description: "Elegant white flowers and excellent air purifier",
       type: "air purifying",
@@ -53,7 +53,7 @@ const initialState = {
     {
       id: 7,
       name: "Mint",
-      thumbnail: "/images/mint.jpg",
+      thumbnail: "/paradise-nursery/images/mint.jpg",
       price: 15.99,
       description: "Fresh aromatic herb perfect for culinary use",
       type: "culinary herb",
@@ -61,7 +61,7 @@ const initialState = {
     {
       id: 8,
       name: "Boston Fern",
-      thumbnail: "/images/boston-fern.jpg",
+      thumbnail: "/paradise-nursery/images/boston-fern.jpg",
       price: 27.99,
       description: "Humidity-loving plant that removes air toxins",
       type: "air purifying",
@@ -69,7 +69,7 @@ const initialState = {
     {
       id: 9,
       name: "Eucalyptus",
-      thumbnail: "/images/eucalyptus.jpg",
+      thumbnail: "/paradise-nursery/images/eucalyptus.jpg",
       price: 32.99,
       description: "Strong aromatic leaves with medicinal properties",
       type: "medicinal",
@@ -77,7 +77,7 @@ const initialState = {
     {
       id: 10,
       name: "Rosemary",
-      thumbnail: "/images/rosemary.jpg",
+      thumbnail: "/paradise-nursery/images/rosemary.jpg",
       price: 18.99,
       description: "Fragrant herb used in cooking and aromatherapy",
       type: "culinary herb",
